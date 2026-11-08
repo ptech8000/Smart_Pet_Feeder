@@ -1,0 +1,5 @@
+# Wokwi Library List
+# Install these libraries in Arduino IDE / Wokwi as required.
+RTClib
+LiquidCrystal I2C
+Keypad
